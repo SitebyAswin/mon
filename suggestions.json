@@ -1,0 +1,77 @@
+[
+  {
+    "id": "1763604255668",
+    "user": {
+      "id": 803543058,
+      "username": "aswinlalus",
+      "first_name": "You",
+      "last_name": "seeSnow"
+    },
+    "text": "Test",
+    "createdAt": "2025-11-20T02:04:15.668Z"
+  },
+  {
+    "id": "1763383077763",
+    "user": {
+      "id": 803543058,
+      "username": "aswinlalus",
+      "first_name": "You",
+      "last_name": "seeSnow"
+    },
+    "text": "Hmm",
+    "createdAt": "2025-11-17T12:37:57.797Z"
+  },
+  {
+    "id": "1763221188887",
+    "user": {
+      "id": 803543058,
+      "username": "aswinlalus",
+      "first_name": "You",
+      "last_name": "seeSnow"
+    },
+    "text": "PODA PATTI",
+    "createdAt": "2025-11-15T15:39:48.887Z"
+  },
+  {
+    "id": "1763219949830",
+    "user": {
+      "id": 1155544608,
+      "username": "laluttan",
+      "first_name": "Aswin",
+      "last_name": null
+    },
+    "text": "KGF",
+    "createdAt": "2025-11-15T15:19:09.830Z"
+  },
+  {
+    "id": "1763219919770",
+    "user": {
+      "id": 803543058,
+      "username": "aswinlalus",
+      "first_name": "You",
+      "last_name": "seeSnow"
+    },
+    "text": "KGF",
+    "createdAt": "2025-11-15T15:18:39.770Z"
+  },
+  {
+    "type": "text",
+    "text": "KGF",
+    "from": {
+      "id": 803543058,
+      "username": "aswinlalus",
+      "name": "You seeSnow"
+    },
+    "ts": "2025-11-15T15:58:37.963Z"
+  },
+  {
+    "type": "text",
+    "text": "Baaghi",
+    "from": {
+      "id": 803543058,
+      "username": "aswinlalus",
+      "name": "You seeSnow"
+    },
+    "ts": "2025-11-17T15:12:32.185Z"
+  }
+]
